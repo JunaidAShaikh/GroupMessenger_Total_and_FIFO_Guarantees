@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Mar 27 08:19:39 PDT 2017
+2.base=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.base=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_group_messenger.xml
+0.base=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/junaid/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_group_messenger.xml
+0.set=DEX
